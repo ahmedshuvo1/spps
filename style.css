@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+}
+
+a {
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+.flexible-content {
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+
+p {
+    padding: 2px;
+}
+
+#skills {
+    margin-left: 20px;
+}
+
+.skill-item {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+#Projects {
+    margin-left: 20px;
+}
+
+.project-item {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 10px;
+}
+#contacts{
+    margin-left: ;
+}
+.contact-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.input-button {
+    color: rgb(8, 8, 8);
+    padding: 10px 38px;
+    border-radius: 100px;
+    margin-left: 15px;
+}
+.email {
+    padding: 10px 99px 8px 10px;
+    margin: 15px 30px 15px 30px;
+}
+
+
+footer p {
+    text-align: center;
+    color: grey;
+}
